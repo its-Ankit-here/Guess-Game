@@ -1,14 +1,13 @@
 """
 __file name__ = Guess game(multiplayer).py
-__author__ = "anikit thakur"
+__author__ = "ankit thakur"
 __purpose__ = practice
 __date created__ = 02/01/2022
-__copyright__ = "Copyright 2022"
+__copyright__ = "Copyright 2025"
 __credits__ = ["ankit thakur"]
 __version__ = "1.1.0"
 __maintainer__ = "ankit thakur"
-__email__ = "thakurankit.atr@gmail.com"
-__inspiried by__ = "Code with harry"
+__email__ = "itsankit.contact@gmail.com"
 __discription__ = this program take input from user , on the bases of there input it decides who is the winner. 
 """
 # Guess the number game.(Multiplayer game)
